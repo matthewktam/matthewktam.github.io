@@ -1,0 +1,54 @@
+
+<table class="bibtex-biblio">
+	<li id="higher2019franklin" class="bibtex-entry bibtex-mkt">
+		<span class="bibtex-reference bibtex-mkt" align="right">
+		<span class="bibtex-list bibtex-mkt">
+		<span class="bibtex-list-start"></span>
+		<span class="bibtex-ref bibtex-key-higher2019franklin"></span>
+		<span class="bibtex-list-end"></span>
+		</span></span>
+		<span class="bibtex-citation"><span class="bibtex-inproceedings"><span class="bibtex-title"><b>Higher-dimensional wavelets and the Douglas-Rachford algorithm</b></a></span> with <span class="bibtex-author">D. Franklin &amp; J.A. Hogan</span>. In <span class="bibtex-booktitle"><i>13th International Conference on Sampling Theory and Applications (SampTA)</i></span>, <span class="bibtex-year">2019</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-url"> <a href="https://sampta2019.sciencesconf.org/272691/document">[Link]</a> </span>
+</span></span>
+	</li>
+	<li id="daniilidis2019characterizations" class="bibtex-entry bibtex-mkt">
+		<span class="bibtex-reference bibtex-mkt" align="right">
+		<span class="bibtex-list bibtex-mkt">
+		<span class="bibtex-list-start"></span>
+		<span class="bibtex-ref bibtex-key-daniilidis2019characterizations"></span>
+		<span class="bibtex-list-end"></span>
+		</span></span>
+		<span class="bibtex-citation"><span class="bibtex-incollection"><span class="bibtex-title"><b>Characterizations of super-regularity and its variants</b></a></span> with <span class="bibtex-author">A. Daniilidis &amp; D.R. Luke</span>. In <span class="bibtex-booktitle"><i>Splitting Algorithms, Modern Operator Theory and Applications</i></span>, <span class="bibtex-publisher">Springer</span>, <span class="bibtex-year">2019</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/1808.04978">[arXiv]</a> </span>
+</span></span>
+	</li>
+	<li id="luke2018relaxed" class="bibtex-entry bibtex-mkt">
+		<span class="bibtex-reference bibtex-mkt" align="right">
+		<span class="bibtex-list bibtex-mkt">
+		<span class="bibtex-list-start"></span>
+		<span class="bibtex-ref bibtex-key-luke2018relaxed"></span>
+		<span class="bibtex-list-end"></span>
+		</span></span>
+		<span class="bibtex-citation"><span class="bibtex-inproceedings"><span class="bibtex-title"><b>Relaxed cyclic Douglas-Rachford algorithms for nonconvex optimization</b></a></span> with <span class="bibtex-author">D.R. Luke &amp; A&#8209;L. Martins</span>. In <span class="bibtex-booktitle"><i>ICML 2018: Workshop: Modern Trends in Nonconvex Optimization for Machine Learning</i></span>, <span class="bibtex-year">2018</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-url"> <a href="https://sites.google.com/view/icml2018nonconvex/papers">[Link]</a> </span>
+</span></span>
+	</li>
+	<li id="borwein2014reflection" class="bibtex-entry bibtex-mkt">
+		<span class="bibtex-reference bibtex-mkt" align="right">
+		<span class="bibtex-list bibtex-mkt">
+		<span class="bibtex-list-start"></span>
+		<span class="bibtex-ref bibtex-key-borwein2014reflection"></span>
+		<span class="bibtex-list-end"></span>
+		</span></span>
+		<span class="bibtex-citation"><span class="bibtex-incollection"><span class="bibtex-title"><b>Reflection methods for inverse problems with application to protein conformation determination</b></a></span> with <span class="bibtex-author">J.M. Borwein</span>. In <span class="bibtex-booktitle"><i>Generalized Nash Equilibrium Problems, Bilevel Programming and MPEC</i></span>, <span class="bibtex-pages">pages pp 83-100</span>, <span class="bibtex-publisher">Springer Singapore</span>, <span class="bibtex-year">2018</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-doi"> <a href="https://doi.org/10.1007/978-981-10-4774-9_5">[Link]</a> </span>
+<span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/1408.4213">[arXiv]</a> </span>
+</span></span>
+	</li>
+	<li id="boland2011improved" class="bibtex-entry bibtex-mkt">
+		<span class="bibtex-reference bibtex-mkt" align="right">
+		<span class="bibtex-list bibtex-mkt">
+		<span class="bibtex-list-start"></span>
+		<span class="bibtex-ref bibtex-key-boland2011improved"></span>
+		<span class="bibtex-list-end"></span>
+		</span></span>
+		<span class="bibtex-citation"><span class="bibtex-inproceedings"><span class="bibtex-title"><b>Improved stockyard management strategies for coal export terminals at Newcastle</b></a></span> with <span class="bibtex-author">N. Boland, D. Gulczynski, M.P. Jackson &amp; M.W.P. Savelsbergh</span>. In <span class="bibtex-booktitle"><i>Proceedings of the 19th International Congress on Modelling and Simulation</i></span>, <span class="bibtex-pages">pages 718-724</span>, <span class="bibtex-year">2011</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-url"> <a href="https://pdfs.semanticscholar.org/f035/3f8e36013e2540767276a41d2c7f8ea2f601.pdf">[Link]</a> </span>
+</span></span>
+	</li>
+</table>
