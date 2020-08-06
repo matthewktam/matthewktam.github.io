@@ -7,7 +7,7 @@
 		<span class="bibtex-ref bibtex-key-dao2020constraint"></span>
 		<span class="bibtex-list-end"></span>
 		</span></span>
-		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Constraint reduction reformulations for projection algorithms with applications to wavelet construction</b></a></span> with <span class="bibtex-author">M.N. Dao, N. Dizon &amp; J.A. Hogan</span>. <span class="bibtex-year">2020</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2006.05898">[arXiv]</a> </span>
+		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Constraint reduction reformulations for projection algorithms with applications to wavelet construction</b></a></span> with <span class="bibtex-author">M.N. Dao, N. Dizon &amp; J.A. Hogan</span>.  <span class="bibtex-jname"><i>arXiv:2006.05898</i></span>, <span class="bibtex-year">2020</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2006.05898">[arXiv]</a> </span>
 </span></span>
 	</li>
 	<li id="franklin2020construction" class="bibtex-entry bibtex-mkt">
@@ -17,7 +17,7 @@
 		<span class="bibtex-ref bibtex-key-franklin2020construction"></span>
 		<span class="bibtex-list-end"></span>
 		</span></span>
-		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>A Douglas-Rachford construction of non-separable continuous compactly supported multidimensional wavelets</b></a></span> with <span class="bibtex-author">D. Franklin &amp; J.A. Hogan</span>. <span class="bibtex-year">2020</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2006.03302">[arXiv]</a> </span>
+		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>A Douglas-Rachford construction of non-separable continuous compactly supported multidimensional wavelets</b></a></span> with <span class="bibtex-author">D. Franklin &amp; J.A. Hogan</span>.  <span class="bibtex-jname"><i>arXiv:2006.03302</i></span>, <span class="bibtex-year">2020</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2006.03302">[arXiv]</a> </span>
 </span></span>
 	</li>
 	<li id="csetnek2020convergence" class="bibtex-entry bibtex-mkt">
@@ -27,7 +27,7 @@
 		<span class="bibtex-ref bibtex-key-csetnek2020convergence"></span>
 		<span class="bibtex-list-end"></span>
 		</span></span>
-		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Convergence rates for boundedly regular systems</b></a></span> with <span class="bibtex-author">E.R. Csetnek &amp; A. Eberhard</span>. <span class="bibtex-year">2020</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2004.00818">[arXiv]</a> </span>
+		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Convergence rates for boundedly regular systems</b></a></span> with <span class="bibtex-author">E.R. Csetnek &amp; A. Eberhard</span>.  <span class="bibtex-jname"><i>arXiv:2004.00818</i></span>, <span class="bibtex-year">2020</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2004.00818">[arXiv]</a> </span>
 </span></span>
 	</li>
 	<li id="rieger2020backward" class="bibtex-entry bibtex-mkt">
@@ -39,6 +39,16 @@
 		</span></span>
 		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Backward-forward-reflected-backward splitting for three operator monotone inclusions</b></a></span> with <span class="bibtex-author">J. Rieger</span>.  <span class="bibtex-jname"><i>Applied Mathematics and Computation</i></span>, <span class="bibtex-volume">381</span><span class="bibtex-pages">:125248</span>, <span class="bibtex-year">2020</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-doi"> <a href="10.1016/j.amc.2020.125248">[Link]</a> </span>
 <span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2001.07327">[arXiv]</a> </span>
+</span></span>
+	</li>
+	<li id="tam2020gearhart" class="bibtex-entry bibtex-mkt">
+		<span class="bibtex-reference bibtex-mkt" align="right">
+		<span class="bibtex-list bibtex-mkt">
+		<span class="bibtex-list-start"></span>
+		<span class="bibtex-ref bibtex-key-tam2020gearhart"></span>
+		<span class="bibtex-list-end"></span>
+		</span></span>
+		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Gearhart-Koshy acceleration for affine subspaces</b></a></span><span class="bibtex-author"></span>.  <span class="bibtex-jname"><i>arXiv:2007.00844</i></span>, <span class="bibtex-year">2020</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2007.00844">[arXiv]</a> </span>
 </span></span>
 	</li>
 	<li id="douglas2019aragon" class="bibtex-entry bibtex-mkt">
@@ -70,7 +80,8 @@
 		<span class="bibtex-ref bibtex-key-forward2020malitsky"></span>
 		<span class="bibtex-list-end"></span>
 		</span></span>
-		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>A forward-backward splitting method for monotone inclusions without cocoercivity</b></a></span> with <span class="bibtex-author">Y. Malitsky</span>.  <span class="bibtex-jname"><i>SIAM Journal on Optimization</i></span>, <span class="bibtex-year">2020</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/1808.04162">[arXiv]</a> </span>
+		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>A forward-backward splitting method for monotone inclusions without cocoercivity</b></a></span> with <span class="bibtex-author">Y. Malitsky</span>.  <span class="bibtex-jname"><i>SIAM Journal on Optimization</i></span>, <span class="bibtex-year">2020</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-doi"> <a href="https://doi.org/10.1137/18M1207260">[Link]</a> </span>
+<span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/1808.04162">[arXiv]</a> </span>
 </span></span>
 	</li>
 	<li id="dao2019union" class="bibtex-entry bibtex-mkt">
