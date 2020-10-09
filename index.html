@@ -32,16 +32,16 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 		    else{
 		        $(what+' > li:not(:containsIN(' + value + '))').hide();
 		        $(what+' > li:containsIN(' + value + ')').show();
-		        
+
 		    }
 		};
 	</script>
-    <script src="jquery.js"></script> 
-    <script> 
+    <script src="jquery.js"></script>
+    <script>
     $(function(){
-      $("#includedContent").load("b.html"); 
+      $("#includedContent").load("b.html");
     });
-    </script> 
+    </script>
 	<noscript>
 		<link rel="stylesheet" href="css/5grid/core.css" />
 		<link rel="stylesheet" href="css/5grid/core-desktop.css" />
@@ -100,12 +100,12 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 
 
-<!-- About --> 
+<!-- About -->
 <article id="about" class="panel">
 <header><h2>About</h2></header>
    <p>I am Lecturer for Operations Research in the <a href="http://ms.unimelb.edu.au/">School of Mathematics and Statistics</a> at the University of Melbourne. I am also an investigator in the <a href="https://science.unimelb.edu.au/mcds">Melbourne Centre for Data Science</a>.</p>
 
- 
+
     <p>I received a PhD from the University of Newcastle (Australia) under the supervision of <a href='https://carma.newcastle.edu.au/jon/'>Jonathan Borwein</a> where I was a member of the Centre for <a href='http://carma.newcastle.edu.au/'>Computer-assisted Research Mathematics and its Applications (CARMA)</a>. My thesis was titled "Iterative projection and reflection methods: theory and practice". After my PhD, I moved to the University of Göttingen was a post-doctoral researcher with <a href="http://num.math.uni-goettingen.de/~r.luke/">D. Russell Luke</a> supported by <a href="https://www.uni-goettingen.de/de/514290.html">DFG-GK2088</a> and the Alexander von Humboldt Foundation. Prior to joining the University of Melbourne, I was Junior Professor for Mathematical Optimisation in the <a href='https://www.uni-goettingen.de/en/85746.html'>Institute for Numerical and Applied Mathematics</a> at the University of Göttingen and a member of the <a href="http://vaopt.math.uni-goettingen.de/en/">Continuous Optimisation, Variational Analysis and Inverse Problems</a> workgroup.   </p>
 
 <p><b>Research keywords:</b> continuous optimisation and its applications, monotone operator theory, variational and convex analysis, symbolic computation</p>
@@ -115,20 +115,15 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 </article>
 
 
-<!-- Opportunities --> 
+<!-- Opportunities -->
 <article id="joinus" class="panel">
 <header><h2>Opportunities at UniMelb</h2></header>
-
-
 <p>I am always happy to discuss potential projects with masters and PhD students as well as postdocs. Please take a look at my recent publications and send me an email outlining your background and interests.</p>
-
 
 <h3>Current Opportunities</h3>
 <ul class='style1'>
 
-<li><b>PhD Stipend for Resarch in Optimisation</b> - One PhD stipend is avalible for a student as part of my DE20 Project "Nonmonotone Algorithms in Operator Splitting, Optimisation and Data Science" which aims to develop mathematical foundations for the analysis and development of optimisation algorithms used in data science.</li>
-
-<li><a href="https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-science/fees/">PhD Scholarships</a> @ UniMelb </li>
+<li><a href="https://study.unimelb.edu.au/find/courses/graduate/doctor-of-philosophy-science/fees/">PhD Scholarships</a> @ UniMelb - approximate deadlines are September 30th for internal applicats and October 31st for domesetic applicants. </li>
 
 <li><a href="https://research.unimelb.edu.au/support/funding/internal/mckenzie-fellowship">McKenzie Postdoctoral Fellowship</a> - Three year post-doctoral positions for recent doctoral graduates with a PhD from a university other than the University of Melbourne.</li>
 
@@ -138,6 +133,8 @@ eligible to host German-based researchers through the Feodor Lynen Research Fell
 <li><a href="https://ms.unimelb.edu.au/jobs">Maths/Stat Job Listing at UniMelb</a> - Employment opportunities within the School of Mathematics and Statistics at the University of Melbourne.</li>
 
 <li><a href="https://www.arc.gov.au/grants/discovery-program/discovery-early-career-researcher-award-decra">Discovery Early Career Researcher Award (DECRA)</a> - Three year grant to support early career researchs (up to 5 years post-PhD). </il>
+
+<li><a href="https://www.gostralia.de/forschung-in-australien/finanzierung-promotion-phd-australien/stipendien-foerderung-phd-australien/">GOstralia!</a> - Diverse Förderungsmöglichkeiten von Deutschland.</li>
 </ul>
 
 
@@ -148,7 +145,7 @@ eligible to host German-based researchers through the Feodor Lynen Research Fell
 
 
 
-<!-- Research --> 
+<!-- Research -->
 <article id="research" class="panel">
 
 <header>
@@ -180,8 +177,8 @@ eligible to host German-based researchers through the Feodor Lynen Research Fell
   ?>-->
 
 
-  <script>	
-    jQuery.get('articles.tam', function(content) { 
+  <script>
+    jQuery.get('articles.tam', function(content) {
       document.getElementById("proceedings").innerHTML = content
     })
   </script>
@@ -204,12 +201,12 @@ eligible to host German-based researchers through the Feodor Lynen Research Fell
   $bib->SetBibliographyStyle('mkt'); //MKT's customer style
   $bib->PrintBibliography();
   //$bb = $Site['bibtex'];
-  
+
 ?>-->
 
 
-  <script>	
-    jQuery.get('proceedings.tam', function(content) { 
+  <script>
+    jQuery.get('proceedings.tam', function(content) {
       document.getElementById("publications").innerHTML = content
     })
   </script>
@@ -219,9 +216,9 @@ eligible to host German-based researchers through the Feodor Lynen Research Fell
 
   <h3>Selected Talks</h3>
 	<ol reversed class='style1' id="talks">
-          <li value='9'><b>Splitting algorithms with forward steps</b>, ICCOPT Berlin, August 2019 <a href='talks/19MKT-ICCOPT.pdf'>[PDF]</a></li>
-          <li value='8'><b>Algorithms based on unions of nonexpansive maps</b>, ISMP Boreduax, July 2018 <a href='talks/18MKT-ISMP.pdf'>[PDF]</a></li>
-	  <li value='7'><b>Symbolic convex analysis</b>, CARMA Seminar at U. Newcastle, May 2017 <a href='talks/17MKT-SymMono-UoN.pdf'>[PDF]</a></li> 
+    <li value='9'><b>Splitting algorithms with forward steps</b>, ICCOPT Berlin, August 2019 <a href='talks/19MKT-ICCOPT.pdf'>[PDF]</a></li>
+    <li value='8'><b>Algorithms based on unions of nonexpansive maps</b>, ISMP Boreduax, July 2018 <a href='talks/18MKT-ISMP.pdf'>[PDF]</a></li>
+	  <li value='7'><b>Symbolic convex analysis</b>, CARMA Seminar at U. Newcastle, May 2017 <a href='talks/17MKT-SymMono-UoN.pdf'>[PDF]</a></li>
 	  <li value='6'><b>Algorithms for blind ptychographic imaging</b>, CARMA Workshop on Mathematics and Computation at U. Newcastle, June 2015 <a href='talks/15MKT-Ptychography.pdf'>[PDF]</a></li>
 	  <li value='5'><b>Theory and application of convex and non-convex feasibility problems</b> Lecture Series (on behalf of J. Borwein), Spring School on Variational Analysis in Paseky nad Jizerou, Czech Republic, April 2015. <a href='https://carma.newcastle.edu.au/DRmethods/paseky/JMBHandoutsSmall.pdf'>[PDF]</a> <a href='https://carma.newcastle.edu.au/DRmethods/paseky.html'>[URL]</a></li>
 	  <li value='4'><b>Reflection methods for Euclidean distance matrix reconstruction</b>, Australian - New Zealand Mathematics Convention at U. Melb., Dec 2014. <a href='talks/14mkt-anzmc8.pdf'>[PDF]</a> <a href='http://carma.newcastle.edu.au/DRmethods/1PTQ.html'>[Video]</a></li>
@@ -229,11 +226,11 @@ eligible to host German-based researchers through the Feodor Lynen Research Fell
 	  <li value='2'><b>Cyclic Douglas-Rachford iterations</b>, AustMS Annual Meeting at U.Syd, Sept-Oct 2013. <a href='talks/13mtam-austms.pdf'>[PDF]</a></li>
 	  <li value='1'><b>Douglas-Rachford for combinatorial optimisation</b>, AMSSC at ANU, July 2013. <a href='talks/mtam13-amssc.pdf'>[PDF]</a></li>
 
-	</ol> 
-	
-  
- 
- 
+	</ol>
+
+
+
+
 </section>
 </article>
 
@@ -244,7 +241,7 @@ eligible to host German-based researchers through the Feodor Lynen Research Fell
 </header>
                                   <div id="content-main" class="content-main">
 
-  
+
 <div class="banner-text hidden"></div><!-- END: div.banner-text -->
   <ul class="nav nav-tabs">
     <li class="active"></li>
@@ -254,7 +251,7 @@ eligible to host German-based researchers through the Feodor Lynen Research Fell
     </h2><div class="table-scroller">
 
   <table class="staffDetails">
-  
+
   <tbody>
   <tr>
     <th>Email:</th>
@@ -278,7 +275,7 @@ eligible to host German-based researchers through the Feodor Lynen Research Fell
    <tr>
      <th>Address:</th>
      <td>
-     <div class="street-address"> 
+     <div class="street-address">
        School of Mathematics & Statistics<br>
        The University of Melbourne<br>
        Parkville, VIC 3010<br>
@@ -287,14 +284,14 @@ eligible to host German-based researchers through the Feodor Lynen Research Fell
      </td>
    </tr>
    </tbody>
-   
+
 
    </table>
 
   <center>
    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.6582838262516!2d144.96370539999998!3d-37.7980473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642d45ff825f5%3A0xbe6796234be05e36!2sPeter%20Hall%20Building!5e0!3m2!1sde!2sau!4v1580012768942!5m2!1sde!2sau" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
   </center>
-   
+
    </div></div><!-- End: div.tab-pane --></div>
 
 
@@ -308,7 +305,7 @@ eligible to host German-based researchers through the Feodor Lynen Research Fell
   <ul class="links">
     <li>&copy; Matthew Tam</li>
     <li>Design : <a href="http://html5up.net/">HTML5 Up!</a></li><br>
-    <i>Last revised <script>document.write(document.lastModified);</script>.</i> 
+    <i>Last revised <script>document.write(document.lastModified);</script>.</i>
   </ul>
 </div>
 
