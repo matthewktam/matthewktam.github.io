@@ -41,6 +41,16 @@
 <span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2001.07327">[arXiv]</a> </span>
 </span></span>
 	</li>
+	<li id="aragon2020strengthened" class="bibtex-entry bibtex-mkt">
+		<span class="bibtex-reference bibtex-mkt" align="right">
+		<span class="bibtex-list bibtex-mkt">
+		<span class="bibtex-list-start"></span>
+		<span class="bibtex-ref bibtex-key-aragon2020strengthened"></span>
+		<span class="bibtex-list-end"></span>
+		</span></span>
+		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Strengthened splitting methods for computing resolvents</b></a></span> with <span class="bibtex-author">F.J. Arag&oacute;n Artacho &amp; R. Campoy</span>.  <span class="bibtex-jname"><i>arXiv:2011.01796</i></span>, <span class="bibtex-year">2020</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2011.01796">[arXiv]</a> </span>
+</span></span>
+	</li>
 	<li id="tam2020gearhart" class="bibtex-entry bibtex-mkt">
 		<span class="bibtex-reference bibtex-mkt" align="right">
 		<span class="bibtex-list bibtex-mkt">
@@ -277,16 +287,6 @@
 		<span class="bibtex-list-end"></span>
 		</span></span>
 		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Double layer structure of ionic liquids at the Au (111) electrode interface: an atomic force microscopy investigation</b></a></span> with <span class="bibtex-author">R. Hayes, N. Borisenko, P.C. Howlett, F. Endres &amp; R. Atkin</span>.  <span class="bibtex-jname"><i>The Journal of Physical Chemistry C</i></span>, <span class="bibtex-volume">115</span><span class="bibtex-number">(14)</span><span class="bibtex-pages">:6855-6863</span>, <span class="bibtex-year">2011</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-doi"> <a href="https://doi.org/10.1021/jp200544b">[Link]</a> </span>
-</span></span>
-	</li>
-	<li id="aragon2020strengthened" class="bibtex-entry bibtex-mkt">
-		<span class="bibtex-reference bibtex-mkt" align="right">
-		<span class="bibtex-list bibtex-mkt">
-		<span class="bibtex-list-start"></span>
-		<span class="bibtex-ref bibtex-key-aragon2020strengthened"></span>
-		<span class="bibtex-list-end"></span>
-		</span></span>
-		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Strengthened splitting methods for computing resolvents</b></a></span> with <span class="bibtex-author">F.J. Arag\'on Artacho</span>.  <span class="bibtex-jname"><i>arXiv:2011.01796</i></span>, <span class="bibtex-year">2020</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2011.01796">[arXiv]</a> </span>
 </span></span>
 	</li>
 </table>
