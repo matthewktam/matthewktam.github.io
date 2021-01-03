@@ -10,14 +10,15 @@
 		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Strengthened splitting methods for computing resolvents</b></a></span> with <span class="bibtex-author">F.J. Arag&oacute;n Artacho &amp; R. Campoy</span>.  <span class="bibtex-jname"><i>arXiv:2011.01796</i></span>, <span class="bibtex-year">2020</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2011.01796">[arXiv]</a> </span>
 </span></span>
 	</li>
-	<li id="tam2020gearhart" class="bibtex-entry bibtex-mkt">
+	<li id="tam2021gearhart" class="bibtex-entry bibtex-mkt">
 		<span class="bibtex-reference bibtex-mkt" align="right">
 		<span class="bibtex-list bibtex-mkt">
 		<span class="bibtex-list-start"></span>
-		<span class="bibtex-ref bibtex-key-tam2020gearhart"></span>
+		<span class="bibtex-ref bibtex-key-tam2021gearhart"></span>
 		<span class="bibtex-list-end"></span>
 		</span></span>
-		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Gearhart-Koshy acceleration for affine subspaces</b></a></span><span class="bibtex-author"></span>.  <span class="bibtex-jname"><i>Operations Research Letters</i></span>, <span class="bibtex-year">2020</span>., <span class="bibtex-note">(in press)</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2007.00844">[arXiv]</a> </span>
+		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Gearhart-Koshy acceleration for affine subspaces</b></a></span><span class="bibtex-author"></span>.  <span class="bibtex-jname"><i>Operations Research Letters</i></span>, <span class="bibtex-volume">49</span><span class="bibtex-number">(2)</span><span class="bibtex-pages">:157-163</span>, <span class="bibtex-year">2021</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-doi"> <a href="https://doi.org/10.1016/j.orl.2020.12.007">[Link]</a> </span>
+<span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2007.00844">[arXiv]</a> </span>
 </span></span>
 	</li>
 	<li id="dao2020constraint" class="bibtex-entry bibtex-mkt">
