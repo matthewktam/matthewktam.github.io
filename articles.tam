@@ -9,6 +9,16 @@
 		</span></span>
 		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Concrush: Understanding fugitive dust production and potential emission at a recycled concrete manufacturing facility</b></a></span> with <span class="bibtex-author">B. Florio, F. Georgiou, O.D.Y. Huet, M.E. Roberts &amp; D. Triadis</span>.  <span class="bibtex-jname"><i>Preprint</i></span>, <span class="bibtex-year">2020</span>.</span><span class=links style='white-space:nowrap'></span></span>
 	</li>
+	<li id="malitsky2021resolvent" class="bibtex-entry bibtex-mkt">
+		<span class="bibtex-reference bibtex-mkt" align="right">
+		<span class="bibtex-list bibtex-mkt">
+		<span class="bibtex-list-start"></span>
+		<span class="bibtex-ref bibtex-key-malitsky2021resolvent"></span>
+		<span class="bibtex-list-end"></span>
+		</span></span>
+		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Resolvent splitting for sums of monotone operators with minimal lifting</b></a></span> with <span class="bibtex-author">Y. Malitsky</span>.  <span class="bibtex-jname"><i>arXiv:2108.02897</i></span>, <span class="bibtex-year">2021</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2108.02897">[arXiv]</a> </span>
+</span></span>
+	</li>
 	<li id="alcantara2021method" class="bibtex-entry bibtex-mkt">
 		<span class="bibtex-reference bibtex-mkt" align="right">
 		<span class="bibtex-list bibtex-mkt">
@@ -16,7 +26,7 @@
 		<span class="bibtex-ref bibtex-key-alcantara2021method"></span>
 		<span class="bibtex-list-end"></span>
 		</span></span>
-		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Method of Alternating Projection for the Absolute Value Equation</b></a></span> with <span class="bibtex-author">J.H. Alcantara &amp; J.S. Chen</span>.  <span class="bibtex-jname"><i>arXiv:2106.03268</i></span>, <span class="bibtex-year">2021</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2106.03268">[arXiv]</a> </span>
+		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Method of alternating projection for the absolute value equation</b></a></span> with <span class="bibtex-author">J.H. Alcantara &amp; J.S. Chen</span>.  <span class="bibtex-jname"><i>arXiv:2106.03268</i></span>, <span class="bibtex-year">2021</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2106.03268">[arXiv]</a> </span>
 </span></span>
 	</li>
 	<li id="aragon2021strengthened" class="bibtex-entry bibtex-mkt">
@@ -47,7 +57,8 @@
 		<span class="bibtex-ref bibtex-key-dao2021constraint"></span>
 		<span class="bibtex-list-end"></span>
 		</span></span>
-		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Constraint reduction reformulations for projection algorithms with applications to wavelet construction</b></a></span> with <span class="bibtex-author">M.N. Dao, N. Dizon &amp; J.A. Hogan</span>.  <span class="bibtex-jname"><i>Journal of Optimization Theory and Applications</i></span>, <span class="bibtex-year">2021</span>., <span class="bibtex-note">(in press)</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2006.05898">[arXiv]</a> </span>
+		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Constraint reduction reformulations for projection algorithms with applications to wavelet construction</b></a></span> with <span class="bibtex-author">M.N. Dao, N. Dizon &amp; J.A. Hogan</span>.  <span class="bibtex-jname"><i>Journal of Optimization Theory and Applications</i></span>, <span class="bibtex-volume">190</span><span class="bibtex-pages">:201-232</span>, <span class="bibtex-year">2021</span>., <span class="bibtex-note">(in press)</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-doi"> <a href="https://doi.org/10.1007/s10957-021-01878-z">[Link]</a> </span>
+<span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2006.05898">[arXiv]</a> </span>
 </span></span>
 	</li>
 	<li id="franklin2020construction" class="bibtex-entry bibtex-mkt">
@@ -60,14 +71,14 @@
 		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>A Douglas-Rachford construction of non-separable continuous compactly supported multidimensional wavelets</b></a></span> with <span class="bibtex-author">D. Franklin &amp; J.A. Hogan</span>.  <span class="bibtex-jname"><i>arXiv:2006.03302</i></span>, <span class="bibtex-year">2020</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2006.03302">[arXiv]</a> </span>
 </span></span>
 	</li>
-	<li id="csetnek2020convergence" class="bibtex-entry bibtex-mkt">
+	<li id="csetnek2021convergence" class="bibtex-entry bibtex-mkt">
 		<span class="bibtex-reference bibtex-mkt" align="right">
 		<span class="bibtex-list bibtex-mkt">
 		<span class="bibtex-list-start"></span>
-		<span class="bibtex-ref bibtex-key-csetnek2020convergence"></span>
+		<span class="bibtex-ref bibtex-key-csetnek2021convergence"></span>
 		<span class="bibtex-list-end"></span>
 		</span></span>
-		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Convergence rates for boundedly regular systems</b></a></span> with <span class="bibtex-author">E.R. Csetnek &amp; A. Eberhard</span>.  <span class="bibtex-jname"><i>arXiv:2004.00818</i></span>, <span class="bibtex-year">2020</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2004.00818">[arXiv]</a> </span>
+		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Convergence rates for boundedly regular systems</b></a></span> with <span class="bibtex-author">E.R. Csetnek &amp; A. Eberhard</span>.  <span class="bibtex-jname"><i>Advances in Computational Mathematics</i></span>, <span class="bibtex-year">2021</span>., <span class="bibtex-note">(in press)</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2004.00818">[arXiv]</a> </span>
 </span></span>
 	</li>
 	<li id="rieger2020backward" class="bibtex-entry bibtex-mkt">
