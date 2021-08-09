@@ -1,14 +1,5 @@
 
 <table class="bibtex-biblio">
-	<li id="florio2020concrush" class="bibtex-entry bibtex-mkt">
-		<span class="bibtex-reference bibtex-mkt" align="right">
-		<span class="bibtex-list bibtex-mkt">
-		<span class="bibtex-list-start"></span>
-		<span class="bibtex-ref bibtex-key-florio2020concrush"></span>
-		<span class="bibtex-list-end"></span>
-		</span></span>
-		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Concrush: Understanding fugitive dust production and potential emission at a recycled concrete manufacturing facility</b></a></span> with <span class="bibtex-author">B. Florio, F. Georgiou, O.D.Y. Huet, M.E. Roberts &amp; D. Triadis</span>.  <span class="bibtex-jname"><i>Preprint</i></span>, <span class="bibtex-year">2020</span>.</span><span class=links style='white-space:nowrap'></span></span>
-	</li>
 	<li id="malitsky2021resolvent" class="bibtex-entry bibtex-mkt">
 		<span class="bibtex-reference bibtex-mkt" align="right">
 		<span class="bibtex-list bibtex-mkt">
@@ -28,6 +19,15 @@
 		</span></span>
 		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Method of alternating projection for the absolute value equation</b></a></span> with <span class="bibtex-author">J.H. Alcantara &amp; J.S. Chen</span>.  <span class="bibtex-jname"><i>arXiv:2106.03268</i></span>, <span class="bibtex-year">2021</span>.</span><span class=links style='white-space:nowrap'><span class="bibtex-arxiv"> <a href="https://arxiv.org/abs/2106.03268">[arXiv]</a> </span>
 </span></span>
+	</li>
+	<li id="florio2020concrush" class="bibtex-entry bibtex-mkt">
+		<span class="bibtex-reference bibtex-mkt" align="right">
+		<span class="bibtex-list bibtex-mkt">
+		<span class="bibtex-list-start"></span>
+		<span class="bibtex-ref bibtex-key-florio2020concrush"></span>
+		<span class="bibtex-list-end"></span>
+		</span></span>
+		<span class="bibtex-citation"><span class="bibtex-article"><span class="bibtex-title"><b>Concrush: Understanding fugitive dust production and potential emission at a recycled concrete manufacturing facility</b></a></span> with <span class="bibtex-author">B. Florio, F. Georgiou, O.D.Y. Huet, M.E. Roberts &amp; D. Triadis</span>.  <span class="bibtex-jname"><i>Preprint</i></span>, <span class="bibtex-year">2020</span>.</span><span class=links style='white-space:nowrap'></span></span>
 	</li>
 	<li id="aragon2021strengthened" class="bibtex-entry bibtex-mkt">
 		<span class="bibtex-reference bibtex-mkt" align="right">
