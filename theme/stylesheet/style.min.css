@@ -23,7 +23,6 @@ div.popup {
   border-radius: 5px;
   max-width: 800px;
   position: relative;
-  transition: all 1s ease-in-out;
 }
 
 input {
@@ -31,27 +30,11 @@ input {
 }
 
 .popup .close {
-  position: absolute;
-  top: 20px;
-  right: 30px;
-  font-size: 30px;
+z
   font-weight: bold;
   text-decoration: none;
   color: #333;
 }
 .popup .close:hover {
   color: #06D85F;
-}
-
-label {
-  color: #09c;
-  cursor: pointer;
-}
-
-input:checked ~ div.overlay {
-  visibility: hidden;
-}
-
-input:checked + div.overlay {
-  visibility: hidden;
 }
